@@ -1,0 +1,3 @@
+# Для сборки требуется Node.js и npm
+nodejs
+npm 
