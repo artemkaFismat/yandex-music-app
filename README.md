@@ -27,6 +27,3 @@
 ## Зависимости
 - [Electron](https://www.electronjs.org/)
 - [electron-builder](https://www.electron.build/)
-
-## Иконка
-Поместите файл `icon.png` (512x512) в корень проекта для красивой иконки приложения. 
